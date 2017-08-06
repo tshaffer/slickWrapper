@@ -1,0 +1,22 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "ES5",
+        "jsx": "react",
+        "sourceMap": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "removeComments": true,
+        "noImplicitReturns": true
+    },
+    "exclude": ["node_modules", "dist"],
+    "awesomeTypescriptLoaderOptions": {
+
+        "useCache": true
+    }
+}
